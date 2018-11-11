@@ -1,0 +1,12 @@
+.navbar {
+    z-index: 9;
+    background: #33b5e5;
+}
+
+.nav-item {
+    margin: 0px 5px;
+}
+
+.nav-item a{
+    color: white;
+}
